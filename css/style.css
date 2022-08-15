@@ -1,0 +1,298 @@
+.card{
+    width: 300px;
+    
+    background-color:  #ebe8cd ;
+    padding: 70px 30px;
+    margin:30px;
+    display: inline-block;
+    border-radius: 25px;
+    
+}
+.card h3{
+    color: rgb(20, 18, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card p{
+    font-size: 13px;
+    color: rgb(92, 92, 92);
+    text-align: justify;
+    line-height: 27px;
+}
+.card span{
+    color: rgb(65, 65, 247);
+}
+.card1{
+    border: 2px solid goldenrod;
+}
+.cards{
+    background-color:  #e2e1d5 ;
+}
+/*1st card end here*/
+
+
+
+/*2nd card start here*/
+.box{
+    width: 250px;
+    height:350px;
+    background: #ee0979;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+margin: 50px;
+display: inline-block;
+padding: 50px 0px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.box img{
+    width: 90px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 30%;
+    padding: 20px 5px;
+
+}
+.box h1{
+    text-transform: uppercase;
+    font-size: 23px;
+    padding: 10px;
+    color: white;
+    padding: 15px 5px;
+    
+    
+}
+.box p{
+    color: white;
+    font-size: 12px;
+    line-height: 23px;
+    padding: 15px 5px;
+    text-align: center;
+
+}
+.box hr{
+    text-align: center;
+    display: block;
+    width:60px;
+    color: antiquewhite;
+}
+
+
+.box1{
+    background: #fc00ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+border-radius: 17px 17px 0 0;
+}
+.box1 img{
+    
+    border-radius: 50%;
+}
+.boxes{
+    background: #ff00cc;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border: 2px double yellow;
+}
+.boxes img{
+    border-radius: 50%;
+
+}
+
+
+
+/*2nd card end here*/
+
+
+/*3rd card start here*/
+
+.card3{
+    width: 300px;
+    height: 450px;
+    background-image: url(../images/imge-pic-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 40px;
+    display: inline-block;
+    background-color: black;
+    opacity: 0.7;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card3 img{
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    
+    
+}
+.pic {
+    border: 3px solid white;
+}
+.card3 h4{
+    color: white;
+    font-size: 25px;
+   
+}
+.card3 p{
+    color: black;
+    font-size: 14px;
+    line-height: 24px;
+   padding: 5px;
+
+}
+.card3 a{
+    text-decoration: none;
+    background-color: white;
+    color: #333399;
+    padding: 10px 15px;
+    margin-top: 10px;
+    display: inline-block;
+    text-transform: capitalize;
+    transition: 0.4s;
+}
+.card3 a:hover{
+  background-color: red;
+  color: white;
+  border-radius: 15px;
+width: 50%;
+}
+
+.carder{
+    width: 300px;
+    
+    background-image: url(../images/imge-pic-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+
+
+}
+
+.carde{
+    width: 300px;
+   
+    background-image: url(../images/imge-pic-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    border: 1px solid black;
+    opacity: 1;
+
+
+}
+.carde p{
+    color: white;
+}
+/*3rd card end here*/
+
+
+/*4th card start here*/
+.nature{
+    width: 300px;
+    height: 470px;
+    background-color:rgb(231, 231, 231);
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif sans-serif, sans-serif sans-serif;
+    display: inline-block;
+}
+.nature img{
+    width: 300px;
+}
+.nature h2{
+    text-transform: capitalize;
+    padding: 0px 20px;
+
+}
+.nature p,span{
+    padding:5px 20px ;
+    color: grey;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: justify;
+    
+}
+
+.nature hr{
+    color: grey;
+}
+.nature a{
+    text-decoration: none;
+    color: gray;
+    padding:15px 20px ;
+    
+    
+}
+
+
+/*4th card end here*/
+
+/*5th card start here*/
+.div{
+    width: 300px;
+    
+    display: inline-block;
+    margin: 50px;
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 15px;
+}
+.div h1{
+    color: white;
+  
+    padding:  25px;
+    background: #FDFC47;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-size: 35px;
+
+}
+.div span{
+    color: white;
+}
+.div h4{
+    font-size: 20px;
+    color: grey;
+    text-transform: uppercase;
+    
+   
+}
+.div hr{
+    width: 80px;
+}
+.div p{
+    font-size: 14px;
+    line-height: 27px;
+    color: grey;
+}
+.div a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #FDFC47;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #24FE41, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #24FE41, #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: inline-block;
+    margin: 10px;
+    border-radius: 15px;
+    transition: 0.3s;
+    text-transform: uppercase;
+
+
+
+}
+.div a:hover{
+    background-color:yellow;
+    color: white;
+  
+    
+}
+
+
+/*5th card end here*/
